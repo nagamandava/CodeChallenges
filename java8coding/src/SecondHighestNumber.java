@@ -1,2 +1,2 @@
-package PACKAGE_NAME;public class SecondHighestNumber {
+public class SecondHighestNumber {
 }
